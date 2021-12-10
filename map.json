@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"christmas_map.json"
+                 "value":".\/christmas_map.json"
                 }],
          "type":"tilelayer",
          "visible":false,
